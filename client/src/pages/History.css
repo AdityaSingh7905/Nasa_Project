@@ -1,0 +1,45 @@
+.history-card {
+  width: 2rem;
+}
+
+.history-no {
+  width: 3rem;
+}
+
+.history-date {
+  width: 9rem;
+}
+
+.history-rocket {
+  width: 7rem;
+}
+
+@media only screen and (max-width: 600px) {
+  .history-body {
+    font-size: 1rem;
+  }
+
+  .history-card {
+    width: 2rem;
+  }
+
+  .history-no {
+    width: 2rem;
+  }
+
+  .history-date {
+    width: 5rem;
+  }
+
+  .history-mission {
+    width: 5rem;
+  }
+
+  .history-rocket {
+    width: 4rem;
+  }
+
+  .history-customers {
+    width: 4rem;
+  }
+}
